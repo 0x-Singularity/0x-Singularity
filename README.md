@@ -1,3 +1,12 @@
+ ________     ___    ___ ________  ________  ___  ________  ________  ___           ___    ___ 
+|\   __  \   |\  \  /  /|\   ____\|\   __  \|\  \|\_____  \|\_____  \|\  \         |\  \  /  /|
+\ \  \|\  \  \ \  \/  / | \  \___|\ \  \|\  \ \  \\|___/  /|\|___/  /\ \  \        \ \  \/  / /
+ \ \  \\\  \  \ \    / / \ \  \  __\ \   _  _\ \  \   /  / /    /  / /\ \  \        \ \    / / 
+  \ \  \\\  \  /     \/   \ \  \|\  \ \  \\  \\ \  \ /  /_/__  /  /_/__\ \  \____    \/  /  /  
+   \ \_______\/  /\   \    \ \_______\ \__\\ _\\ \__\\________\\________\ \_______\__/  / /    
+    \|_______/__/ /\ __\    \|_______|\|__|\|__|\|__|\|_______|\|_______|\|_______|\___/ /     
+             |__|/ \|__|                                                          \|___|/      
+
 - 👋 Hi, I’m @0xGrizzly/Solodev. I work as a Cyber Threat Intelligence analyst intern, and write code in my free time.
 - 👀 I’m interested in building fun projects, and I'm currently exploring the data science/machine learning field.
 - 🌱 I’m currently studying Software Engineering at Kennesaw State University
