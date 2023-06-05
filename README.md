@@ -14,7 +14,6 @@ ________     ___    ___ ________  ________  ___  ________  ________  ___        
 - I’m @0xGrizzly. I work as a CTI intern, and write code in my free time.
 - I’m currently studying Software Engineering and cybersecurity.
 - I’m looking to collaborate on open source projects and meet like-minded individuals. 
-
 ```
 <br />
 <!---
