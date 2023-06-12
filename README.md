@@ -18,7 +18,8 @@ ________     ___    ___ ________  ________  ___  ________  ________  ___        
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xGrizzly) 
 
 ##  📫 Get in Touch
-| ***discord*** | `0xGrizzly#7667` |  
+| ***discord*** | `0xGrizzly#7667` | 
+| :--- | :--- |
 | ***twitter*** |https://twitter.com/0xGriizzly|
 
 
