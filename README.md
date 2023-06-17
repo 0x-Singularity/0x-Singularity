@@ -16,7 +16,7 @@ _Passionate and driven developer, constantly labouring on self-improvement and s
 | **_discord_** | `0xGrizzly#7667`               |
 | :------------ | :----------------------------- |
 | **_twitter_** | https://twitter.com/0xGriizzly |
-| **email** | 0xGrizzly@proton.me |
+| **_email_** | 0xGrizzly@proton.me |
 
 ## 🎓 Education
 
