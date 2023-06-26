@@ -4,7 +4,7 @@
 
 _Passionate and driven developer, constantly labouring on self-improvement and supporting others._
 
-![alt text](/assets/ProfilePic.PNG)
+<img src="assets/ProfilePic.PNG" width="200">
 
 ## 🧮 Statistics
 
