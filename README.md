@@ -4,8 +4,6 @@
 
 _Dedicated and ambitious developer, constantly working on self-improvement and supporting others._
 
-<img src="assets/ProfilePic.PNG" width="300">
-
 ## 🧮 Statistics
 
 ![](https://komarev.com/ghpvc/?username=0xGrizzly&color=blue&style=flat)  
