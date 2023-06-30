@@ -2,7 +2,7 @@
 
 <div align="center">
 
-_Passionate and driven developer, constantly labouring on self-improvement and supporting others._
+_Dedicated and ambitious developer, constantly working on self-improvement and supporting others._
 
 <img src="assets/ProfilePic.PNG" width="300">
 
