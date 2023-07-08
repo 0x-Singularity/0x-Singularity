@@ -6,7 +6,8 @@ _Dedicated and ambitious developer, constantly working on self-improvement and s
 
 ## 🧮 Statistics
 
-![](https://komarev.com/ghpvc/?username=0xGrizzly&color=black&style=flat)  
+ ![](https://komarev.com/ghpvc/?username=0xGrizzly&label=Profile+Viewers&color=red)
+![](https://komarev.com/ghpvc/?username=0xGrizzly&color=red&style=flat)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xGrizzly)
 
 ## 📫 Get in Touch
