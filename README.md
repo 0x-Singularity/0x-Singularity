@@ -24,9 +24,9 @@ _Dedicated and ambitious developer, constantly working on self-improvement and s
 | Training                                                  | Expected Date of Completion |
 | :-------------------------------------------------------- | :-------------------------- |
 | Software Engineering, BSc                                 | 2024                        |
-| Offensive Security Certified Professional (OSCP)          | 2023                        |
+| Offensive Security, Certified Professional (OSCP)          | 2023                        |
 | TCM Security: Practical Network Penetration Tester (PNPT) | 2023                        |
-| RED TEAM Operator: Malware Development Essentials         | 2023                        |
+| Offensive Security, Certified Red Team Operator (CRTO)    | 2023                        |
 | Maldev Academy Student                                    | **In Progress**             |
 | TCM Security: Practical Junior Malware Researcher (PJMR)  | **2023 Completed**          |
 | CompTIA: Security+                                        | **2022 Completed**          |
