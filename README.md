@@ -31,6 +31,9 @@ _Dedicated and ambitious developer, constantly working on self-improvement and s
 | TCM Security: Practical Junior Malware Researcher (PJMR)  | **2023 Completed**          |
 | CompTIA: Security+                                        | **2022 Completed**          |
 
+
+[![An image of @0xgrizzly's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0xgrizzly)](https://holopin.io/@0xgrizzly)
+
 <!---
 GarrettMcGuire54/GarrettMcGuire54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
