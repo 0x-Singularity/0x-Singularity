@@ -25,6 +25,7 @@ _Dedicated and ambitious developer, constantly working on self-improvement and s
 | :-------------------------------------------------------- | :-------------------------- |
 | Software Engineering, BSc                                 | 2024                        |
 | Maldev Academy Student                                    | **In Progress**             |
+| Full-Stack Web Development Bootcamp                       | **2023 Completed**          |
 | TCM Security: Practical Junior Malware Researcher (PJMR)  | **2023 Completed**          |
 | CompTIA: Security+                                        | **2022 Completed**          |
 
