@@ -4,10 +4,10 @@
 
 _Dedicated and ambitious developer, constantly working on self-improvement and supporting others._
 
-## 🧮 Statistics
+<!---!## 🧮 Statistics
 
 
-<!---![](https://komarev.com/ghpvc/?username=0xGrizzly&color=blue&style=flat)  
+[](https://komarev.com/ghpvc/?username=0xGrizzly&color=blue&style=flat)  
 ![0xGrizzly's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xGrizzly&show_icons=true&theme=transparent&hide=issues,contribs&hide_border)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xGrizzly&layout=compact&theme=transparent) -->
