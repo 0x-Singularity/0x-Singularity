@@ -3,7 +3,7 @@
 <div align="center">
 
 _Dedicated and ambitious developer, constantly working on self-improvement and supporting others._
-
+(https://komarev.com/ghpvc/?username=0xGrizzly&color=blue&style=flat) 
 <!---!## 🧮 Statistics
 
 
