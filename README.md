@@ -2,7 +2,7 @@
 
 <div align="center">
 
-_Dedicated and ambitious developer, constantly working on self-improvement and supporting others._
+_Dedicated and ambitious developer, constantly working on self-improvement, lifelong learning, and supporting others._
 <!---!## 🧮 Statistics
 
 
