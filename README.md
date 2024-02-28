@@ -13,10 +13,8 @@ _Dedicated and ambitious developer, constantly working on self-improvement, life
 
 ## 📫 Get in Touch
 
-| **_discord_** | `0xGrizzly`               |
+| **_discord_** | `0xSingularity.`               |
 | :------------ | :----------------------------- |
-| **_twitter_** | https://twitter.com/0xGriizzly |
-| **_email_** | 0xGrizzly@proton.me |
 
 ## 🎓 Education
 
