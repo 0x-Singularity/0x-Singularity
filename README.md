@@ -13,9 +13,9 @@ _Dedicated and ambitious developer, constantly working on self-improvement, life
 
 ## 📫 Get in Touch
 
-| **_discord_** | `0xSingularity.`               |
+| **_Discord_** | `0xSingularity.`               |
 | :------------ | :----------------------------- |
-
+| **_Email_** | `gmcguir2@students.kennesaw.edu` |
 ## 🎓 Education
 
 | Training                                                  | Expected Date of Completion |
