@@ -15,7 +15,7 @@ _Dedicated and ambitious developer, constantly working on self-improvement, life
 
 | **_Discord_** | `0xSingularity.`               |
 | :------------ | :----------------------------- |
-| **_Email_** | `gmcguir2@students.kennesaw.edu` |
+| **_Email_** | `algoacademy.co@gmail.com` |
 ## 🎓 Education
 
 | Training                                                  | Expected Date of Completion |
