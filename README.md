@@ -15,7 +15,7 @@ _Dedicated and ambitious developer, constantly working on self-improvement, life
 
 | **_Discord_** | `0xSingularity.`               |
 | :------------ | :----------------------------- |
-| **_Email_** | `astrolabs.research@gmail.com` |
+| **_Email_** | `astralabs.research@gmail.com` |
 ## 🎓 Education
 
 | Training                                                  | Expected Date of Completion |
