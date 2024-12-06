@@ -24,7 +24,6 @@ _Dedicated and ambitious developer, constantly working on self-improvement, life
 | :-------------------------------------------------------- | :-------------------------- |
 | Software Engineering, BSc                                 | May 2025                    |
 | Invoke RE - Malware Binary Triage certification           | January 2025                |
-| Full-Stack Web Development Bootcamp                       | **2023 Completed**          |
 | TCM Security: Practical Malware Research Professional (PMRP) | **2023 Completed**       |
 | CompTIA: Security+                                        | **2022 Completed**          |
 
