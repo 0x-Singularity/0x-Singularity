@@ -1,7 +1,9 @@
 # 0xSingularity
 
 <div align="center">
-
+ 
+[![Hits](https://hits.sh/github.com/0x-Singularity.svg?label=Views&color=2C2E47)](https://hits.sh/github.com/0x-Singularity/)
+ 
 _Dedicated and ambitious developer, constantly working on self-improvement, lifelong learning, and supporting others._
 <!---!## 🧮 Statistics
 
