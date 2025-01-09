@@ -22,6 +22,7 @@ _Dedicated and ambitious developer, constantly working on self-improvement, life
 
 | Training                                                  | Expected Date of Completion |
 | :-------------------------------------------------------- | :-------------------------- |
+| Artificial Intelligence, MS                                 | May 2027                   |
 | Software Engineering, BSc                                 | May 2025                    |
 | Invoke RE: Malware Binary Triage certification           | January 2025                |
 | TCM Security: Practical Malware Research Professional (PMRP) | **2023 Completed**       |
