@@ -23,6 +23,8 @@ _Dedicated and ambitious developer, constantly working on self-improvement, life
 | Training                                                  | Expected Date of Completion |
 | :-------------------------------------------------------- | :-------------------------- |
 | MSCS @ Georgia Tech                                | May 2027                   |
+| Certified Red Team Operator                               | TBD                 |
+| Practical Junior Penetration Tester (PJPT)                   | TBD                 |
 | Invoke RE: Malware Binary Triage certification           | June 2025                |
 | Software Engineering, BSc                                 | May 2025                    |
 | TCM Security: Practical Malware Research Professional (PMRP) | **2023 Completed**       |
