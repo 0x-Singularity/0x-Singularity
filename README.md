@@ -25,8 +25,8 @@ _Dedicated and ambitious developer, constantly working on self-improvement, life
 | MSCS @ Georgia Tech                                | May 2027                   |
 | Certified Red Team Operator                               | TBD                 |
 | Current MalDev Academy Student                   | TBD                 |
-| Practical Junior Penetration Tester (PJPT)                   | TBD                 |
-| Invoke RE: Malware Binary Triage certification           | June 2025                |
+| Hack The Box: Certified Penetration Testing Specialist (CPTS)    | TBD                 |
+| Invoke RE: Malware Binary Triage certification           | July 2025                |
 | Software Engineering, BSc                                 | **May 2025 Completed**                    |
 | TCM Security: Practical Malware Research Professional (PMRP) | **2023 Completed**       |
 | CompTIA: Security+                                        | **2022 Completed**          |
