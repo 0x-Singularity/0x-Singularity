@@ -23,20 +23,11 @@ _Dedicated and ambitious developer, constantly working on self-improvement, life
 | Training                                                  | Expected Date of Completion |
 | :-------------------------------------------------------- | :-------------------------- |
 | MSCS @ Georgia Tech                                | May 2027                   |
-| Certified Red Team Operator                               | TBD                 |
-| Current MalDev Academy Student                   | TBD                 |
-| Hack The Box: Certified Penetration Testing Specialist (CPTS)    | TBD                 |
-| Invoke RE: Malware Binary Triage certification           | September 2025                |
 | Software Engineering, BSc                                 | **May 2025 Completed**                    |
 | TCM Security: Practical Malware Research Professional (PMRP) | **2023 Completed**       |
 | CompTIA: Security+                                        | **2022 Completed**          |
 
 
 [![An image of @0xgrizzly's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0xgrizzly)](https://holopin.io/@0xgrizzly)
-
-<!---
-GarrettMcGuire54/GarrettMcGuire54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
  <div/>
