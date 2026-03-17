@@ -22,7 +22,7 @@ _Dedicated and ambitious developer, constantly working on self-improvement, life
 
 | Training                                                  | Expected Date of Completion |
 | :-------------------------------------------------------- | :-------------------------- |
-| MS CyberSecurity @ Georgia Tech                                | May 2027                   |
+| MS Cybersecurity @ Georgia Tech                                | May 2027                   |
 | Software Engineering, BSc                                 | **May 2025 Completed**                    |
 | TCM Security: Practical Malware Research Professional (PMRP) | **2023 Completed**       |
 | CompTIA: Security+                                        | **2022 Completed**          |
