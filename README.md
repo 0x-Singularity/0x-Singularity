@@ -22,7 +22,10 @@ _Dedicated and ambitious developer, constantly working on self-improvement, life
 
 | Training                                                  | Expected Date of Completion |
 | :-------------------------------------------------------- | :-------------------------- |
-| MS Cybersecurity @ Georgia Tech                                | May 2027                   |
+| MS Cybersecurity @ Georgia Tech                                | May 2028                   |
+| MalDev Academy: Ransomware Internals, Simulation, and Detection           | **In Progress**|
+| EC-Council: Certified Threat Intelligence Analyst              | **April 2026 Completed**|
+| MalDev Academy: Malware Development Course                                 | **March 2026 Completed**|
 | Software Engineering, BSc                                 | **May 2025 Completed**                    |
 | TCM Security: Practical Malware Research Professional (PMRP) | **2023 Completed**       |
 | CompTIA: Security+                                        | **2022 Completed**          |
