@@ -13,7 +13,6 @@
 
 ## 📫 Get in Touch
 
-| :------------ | :----------------------------- |
 | **_Email_** | `astralabs.research@gmail.com` |
 ## 🎓 Education
 
