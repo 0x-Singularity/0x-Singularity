@@ -3,8 +3,6 @@
 <div align="center">
  
 [![Hits](https://hits.sh/github.com/0x-Singularity.svg?style=plastic&label=Views&color=2C2E47)](https://hits.sh/github.com/0x-Singularity/)
- 
-_Dedicated and ambitious developer, constantly working on self-improvement, lifelong learning, and supporting others._
 <!---!## 🧮 Statistics
 
 
@@ -15,7 +13,6 @@ _Dedicated and ambitious developer, constantly working on self-improvement, life
 
 ## 📫 Get in Touch
 
-| **_Discord_** | `0xSingularity.`               |
 | :------------ | :----------------------------- |
 | **_Email_** | `astralabs.research@gmail.com` |
 ## 🎓 Education
@@ -23,7 +20,7 @@ _Dedicated and ambitious developer, constantly working on self-improvement, life
 | Training                                                  | Expected Date of Completion |
 | :-------------------------------------------------------- | :-------------------------- |
 | MS Cybersecurity @ Georgia Tech                                | May 2028                   |
-| MalDev Academy: Ransomware Internals, Simulation, and Detection           | **In Progress**|
+| MalDev Academy: Ransomware Internals, Simulation, and Detection           | **May 2026 Completed**|
 | EC-Council: Certified Threat Intelligence Analyst              | **April 2026 Completed**|
 | MalDev Academy: Malware Development Course                                 | **March 2026 Completed**|
 | Software Engineering, BSc                                 | **May 2025 Completed**                    |
