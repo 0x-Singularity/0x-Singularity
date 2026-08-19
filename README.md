@@ -13,7 +13,7 @@
 
 ## 📫 Get in Touch
 
-| **_Email_** | `astralabs.research@gmail.com` |
+**_Email_** | `astralabs.research@gmail.com`
 ## 🎓 Education
 
 | Training                                                  | Expected Date of Completion |
