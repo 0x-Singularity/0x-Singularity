@@ -18,7 +18,6 @@
 
 | Training                                                  | Expected Date of Completion |
 | :-------------------------------------------------------- | :-------------------------- |
-| MS Cybersecurity @ Georgia Tech                                | May 2028                   |
 | MalDev Academy: Ransomware Internals, Simulation, and Detection           | **May 2026 Completed**|
 | EC-Council: Certified Threat Intelligence Analyst              | **April 2026 Completed**|
 | MalDev Academy: Malware Development Course                                 | **March 2026 Completed**|
